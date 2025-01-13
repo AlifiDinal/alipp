@@ -43,7 +43,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'bagas', 'bagas082208@gemail.com', NULL, '$2y$12$7T8WmncWHHSYvSM/lTdITOi7vdR.cFywvdYHm2dQHFx3QydVS52ui', NULL, '2025-01-09 23:12:59', '2025-01-09 23:12:59');
+(1, 'alipgtg', 'alip082208@gemail.com', NULL, '$2y$12$7T8WmncWHHSYvSM/lTdITOi7vdR.cFywvdYHm2dQHFx3QydVS52ui', NULL, '2025-01-09 23:12:59', '2025-01-09 23:12:59');
 
 --
 -- Indexes for dumped tables
